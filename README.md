@@ -14,9 +14,12 @@ First, download the following files:
  1. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/ranking_users.txt)
 > Contains ids for users to generate a size 10 recommendation. 
 
- 2. List item
+ 2. [ training_data.txt: 
+](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.txt.csv)
+ > 
+ > Contiene los datos completos (identificadores, features y ratings) de los que dispone para utilizar durante el entrenamiento.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg5ODUwNTUsLTU1NTQwMTY3LC05MT
-UwODMwMzQsMTc0MTc5ODczXX0=
+eyJoaXN0b3J5IjpbMTgzNDkxNzg5LC0xNTk4OTg1MDU1LC01NT
+U0MDE2NywtOTE1MDgzMDM0LDE3NDE3OTg3M119
 -->
