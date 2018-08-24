@@ -12,8 +12,11 @@ Here you will find all the replication instructions for the experiments detailed
 First, download the following files:
 
  1. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/ranking_users.txt)
-> Contiene identificadores de usuarios para los que debe generar una lista de recomendación de tamaño 10. En base a sus predicciones, calcularemos el F-1 score entre el MAP@10 y el nDCG@10 resultante.
+> Contains ids for users to generate a size 10 recommendation. 
+
+ 2. List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkzMTk5ODUsLTU1NTQwMTY3LC05MT
+eyJoaXN0b3J5IjpbLTE1OTg5ODUwNTUsLTU1NTQwMTY3LC05MT
 UwODMwMzQsMTc0MTc5ODczXX0=
 -->
