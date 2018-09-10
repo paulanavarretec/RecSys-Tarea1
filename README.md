@@ -20,12 +20,10 @@ These are the data files:
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
 : Contains 70% of the instances to train the models.
 
- 3. [ **train_30.csv** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
+ 3. [ **train_30.csv** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
 : Contains the complementary 30% of the instances to train the models..
 
- 4. [ **test_rating_data.csv** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
+ 4. [ **test_rating_data.csv** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
 : Contains all the instances to generate a preticted rating.
 
  5. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/ranking_users.txt)
@@ -51,5 +49,5 @@ These are the data files:
 5. [**Recsys_Tarea1_Experimentos_ALS.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_ALS.ipynb)
 : Code for experimentation with ALS Model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTc1NTg2Nl19
+eyJoaXN0b3J5IjpbMTgyNTU4MTMwMl19
 -->
