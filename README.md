@@ -22,23 +22,19 @@ These are the data files:
 
  3. [ **train_30.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
-
-Contains the complementary 30% of the instances to train the models..
+: Contains the complementary 30% of the instances to train the models..
 
  4. [ **test_rating_data.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
- 
- Contains all the instances to generate a preticted rating.
+: Contains all the instances to generate a preticted rating.
 
  5. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/ranking_users.txt)
-
-Contains ids for users to generate a size 10 recommendation. 
+: Contains ids for users to generate a size 10 recommendation. 
 
 ##  Data Analysis
 
 1. [**Recsys_Data_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Data_Analysis.ipynb)
-
-Code for data load and exploration.
+: Code for data load and exploration.
 
 ##  Experimentation
 
@@ -46,6 +42,5 @@ Code for data load and exploration.
 
 Code for data load and exploration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIxMTI1MDMsLTE0OTUxNDIzMDNdfQ
-==
+eyJoaXN0b3J5IjpbNDUwNDg1OTg5LC0xNDk1MTQyMzAzXX0=
 -->
