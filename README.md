@@ -4,7 +4,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 # RecSys-Tarea1
 
-Recommender System for a beer selling platform Instructions for replication of experiments.
+Recommender System algorithms for a beer selling platform Instructions for replication of experiments.
 
 Here you will find all the replication instructions for the experiments detailed in repo.
 
@@ -23,7 +23,7 @@ First, download the following files:
 > Contains ids for users to generate a size 10 recommendation. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjkyNDQ0Niw5NTQ1NDc3OSwtMjU2OT
-I0NDQ2LC0xNTk4OTg1MDU1LC01NTU0MDE2NywtOTE1MDgzMDM0
-LDE3NDE3OTg3M119
+eyJoaXN0b3J5IjpbMTc4NDE3MDA3NiwtMjU2OTI0NDQ2LDk1ND
+U0Nzc5LC0yNTY5MjQ0NDYsLTE1OTg5ODUwNTUsLTU1NTQwMTY3
+LC05MTUwODMwMzQsMTc0MTc5ODczXX0=
 -->
