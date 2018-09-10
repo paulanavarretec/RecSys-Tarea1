@@ -13,14 +13,15 @@ These are the data files:
 
  1. [ **training_data.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
-> Contains all the instances to train models.
+> Contains all the instances to train the models.
 
  2. [ **train_70.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
+> Contains 70% of the instances to train the models.
 
  3. [ **train_30.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
- > Contains all the instances to generate a preticted rating.
+ >  Contains the complementary 30% of the instances to train the models..
 
  4. [ **test_rating_data.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
@@ -31,7 +32,7 @@ These are the data files:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM3NDM5MTQsLTE1ODIyNDA4NTAsLT
-I1NjkyNDQ0Niw5NTQ1NDc3OSwtMjU2OTI0NDQ2LC0xNTk4OTg1
-MDU1LC01NTU0MDE2NywtOTE1MDgzMDM0LDE3NDE3OTg3M119
+eyJoaXN0b3J5IjpbMzMxMTY3NzM1LC0xNTgyMjQwODUwLC0yNT
+Y5MjQ0NDYsOTU0NTQ3NzksLTI1NjkyNDQ0NiwtMTU5ODk4NTA1
+NSwtNTU1NDAxNjcsLTkxNTA4MzAzNCwxNzQxNzk4NzNdfQ==
 -->
