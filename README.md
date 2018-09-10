@@ -9,9 +9,11 @@ Instructions for replication of experiments for recommender algorithms for a bee
 Here you will find all the replication instructions for the experiments detailed in repo.
 
  ## Report
+ 1. [ **PDF Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
+ : Contains Report with all the theory, explanations and produres relevant to this experimentation set.
  
- 1. [ **LaTex Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
-: Contains all the instances to train the models.
+ 2. [ **LaTex Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
+: Contains all the files to generate LaTex Report.
 
  ## Downloading the Data
 
@@ -57,6 +59,6 @@ These are the data files:
 1. [**Recsys_Tarea1_Sensitivity_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Sensitivity_Analysis.ipynb)
 : Code for Models senstivity to parameters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjA4NTQ0MywtNzQ5ODAxMjMxLDE4Mj
+eyJoaXN0b3J5IjpbLTE5MjQ1OTA5MywtNzQ5ODAxMjMxLDE4Mj
 U1ODEzMDJdfQ==
 -->
