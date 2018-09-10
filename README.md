@@ -13,11 +13,11 @@ These are the data files:
 
  1. [ **training_data.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
-> Contains all the instances to train the models.
+Contains all the instances to train the models.
 
  2. [ **train_70.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
-> Contains 70% of the instances to train the models.
+Contains 70% of the instances to train the models.
 
  3. [ **train_30.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
@@ -33,7 +33,5 @@ Contains ids for users to generate a size 10 recommendation.
 ##  Data Analysis
 All 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDc4MzM1MiwtMTU4MjI0MDg1MCwtMj
-U2OTI0NDQ2LDk1NDU0Nzc5LC0yNTY5MjQ0NDYsLTE1OTg5ODUw
-NTUsLTU1NTQwMTY3LC05MTUwODMwMzQsMTc0MTc5ODczXX0=
+eyJoaXN0b3J5IjpbLTQ1NTA5NzM1Nl19
 -->
