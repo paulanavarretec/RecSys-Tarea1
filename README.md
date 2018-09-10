@@ -33,7 +33,12 @@ Contains ids for users to generate a size 10 recommendation.
 ##  Data Analysis
 
 1. [**Recsys_Data_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Data_Analysis.ipynb)
-Contains ids for users to generate a size 10 recommendation. 
+Code for data load and exploration.
+
+##  Experimentation
+
+1. [**Recsys_Data_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Data_Analysis.ipynb)
+Code for data load and exploration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyMTQ5MDQsLTQ1NTA5NzM1Nl19
+eyJoaXN0b3J5IjpbMTM5NzI1MzA2MSwtNDU1MDk3MzU2XX0=
 -->
