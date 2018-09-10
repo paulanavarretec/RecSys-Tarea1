@@ -38,9 +38,8 @@ These are the data files:
 
 ##  Experimentation
 
-1. [**Recsys_Data_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Data_Analysis.ipynb)
-
-Code for data load and exploration.
+1. [**Recsys_Tarea1_Experimentos_ItemKnn.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_ItemKnn.ipynb)
+: Code for experimentation with Item Knn Model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDg1OTg5LC0xNDk1MTQyMzAzXX0=
+eyJoaXN0b3J5IjpbMTk2OTgwNDA5MiwtMTQ5NTE0MjMwM119
 -->
