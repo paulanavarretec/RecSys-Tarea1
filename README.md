@@ -51,5 +51,5 @@ These are the data files:
 5. [**Recsys_Tarea1_Experimentos_ALS.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_ALS.ipynb)
 : Code for experimentation with ALS Model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTc1NTg2NiwtMTM4MDIxNTQ0OV19
+eyJoaXN0b3J5IjpbMTU3OTc1NTg2Nl19
 -->
