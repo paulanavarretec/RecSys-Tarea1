@@ -62,8 +62,7 @@ These are the data files:
 ##  Output Data
 
 1. [**Recsys-Tarea1_output_data**](https://github.com/paulanavarretec/Recsys-Tarea1_output_data)
-: Code for Models senstivity to parameters.
+: Experiment's output data files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg5ODg0NTgsLTE1NjE4Mzk1OCwtMT
-kyNDU5MDkzXX0=
+eyJoaXN0b3J5IjpbMzQwMjMxNDI0XX0=
 -->
