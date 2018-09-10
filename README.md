@@ -8,6 +8,12 @@ Instructions for replication of experiments for recommender algorithms for a bee
 
 Here you will find all the replication instructions for the experiments detailed in repo.
 
+ ## Report
+ 
+ 1. [ **training_data.csv** 
+](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
+: Contains all the instances to train the models.
+
  ## Downloading the Data
 
 These are the data files:
@@ -54,5 +60,5 @@ These are the data files:
 1. [**Recsys_Tarea1_Sensitivity_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Sensitivity_Analysis.ipynb)
 : Code for Models senstivity to parameters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcwNTc3OTksMTgyNTU4MTMwMl19
+eyJoaXN0b3J5IjpbLTc0OTgwMTIzMSwxODI1NTgxMzAyXX0=
 -->
