@@ -31,7 +31,9 @@ Contains the complementary 30% of the instances to train the models..
 Contains ids for users to generate a size 10 recommendation. 
 
 ##  Data Analysis
-All 
+
+1. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/ranking_users.txt)
+Contains ids for users to generate a size 10 recommendation. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTA5NzM1Nl19
+eyJoaXN0b3J5IjpbMTI5MDMxMDkyNiwtNDU1MDk3MzU2XX0=
 -->
