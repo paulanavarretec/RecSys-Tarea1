@@ -11,11 +11,12 @@ Here you will find all the replication instructions for the experiments detailed
  ## Downloading the Data
 These are the data files:
 
- 1. [ **training_data.txt:** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.txt.csv)
+ 1. [ **training_data.txt** 
+](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
  > Contains all the available data to use for training (ids, features and ratings).
+ > 
 
- 1. [ **test_data.txt:** 
+ 2. [ **test_data.txt:** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
  > Contains all the instances to generate a preticted rating.
 
@@ -23,7 +24,7 @@ These are the data files:
 > Contains ids for users to generate a size 10 recommendation. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIyNDA4NTAsLTI1NjkyNDQ0Niw5NT
-Q1NDc3OSwtMjU2OTI0NDQ2LC0xNTk4OTg1MDU1LC01NTU0MDE2
-NywtOTE1MDgzMDM0LDE3NDE3OTg3M119
+eyJoaXN0b3J5IjpbNTIwMjE4NzI1LC0xNTgyMjQwODUwLC0yNT
+Y5MjQ0NDYsOTU0NTQ3NzksLTI1NjkyNDQ0NiwtMTU5ODk4NTA1
+NSwtNTU1NDAxNjcsLTkxNTA4MzAzNCwxNzQxNzk4NzNdfQ==
 -->
