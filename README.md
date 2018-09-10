@@ -51,8 +51,8 @@ These are the data files:
 
 ##  Sensitivity Analysis
 
-1. [**Recsys_Tarea1_Experimentos_ALS.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_ALS.ipynb)
-: Code for experimentation with ALS Model.
+1. [**Recsys_Tarea1_Sensitivity_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Sensitivity_Analysis.ipynb)
+: Code for Models senstivity to parameters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNTY2NzI3LDE4MjU1ODEzMDJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcwNTc3OTksMTgyNTU4MTMwMl19
 -->
