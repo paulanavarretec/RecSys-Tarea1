@@ -10,20 +10,17 @@ Here you will find all the replication instructions for the experiments detailed
 
  ## Report
  
- 1. [ **training_data.csv** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
+ 1. [ **LaTex Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
 : Contains all the instances to train the models.
 
  ## Downloading the Data
 
 These are the data files:
 
- 1. [ **training_data.csv** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
+ 1. [ **training_data.csv** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
 : Contains all the instances to train the models.
 
- 2. [ **train_70.csv** 
-](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
+ 2. [ **train_70.csv** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
 : Contains 70% of the instances to train the models.
 
  3. [ **train_30.csv** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
@@ -60,5 +57,6 @@ These are the data files:
 1. [**Recsys_Tarea1_Sensitivity_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Sensitivity_Analysis.ipynb)
 : Code for Models senstivity to parameters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTgwMTIzMSwxODI1NTgxMzAyXX0=
+eyJoaXN0b3J5IjpbLTcyNjA4NTQ0MywtNzQ5ODAxMjMxLDE4Mj
+U1ODEzMDJdfQ==
 -->
