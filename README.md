@@ -21,11 +21,17 @@ These are the data files:
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
  > Contains all the instances to generate a preticted rating.
 
+ 3. [ **train_30.csv** 
+](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
+ > Contains all the instances to generate a preticted rating.
+
+
+
  2. [**ranking_users.txt**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/test_rating_data.csv)
 > Contains ids for users to generate a size 10 recommendation. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzExNjg2LC0xNTgyMjQwODUwLC0yNT
-Y5MjQ0NDYsOTU0NTQ3NzksLTI1NjkyNDQ0NiwtMTU5ODk4NTA1
-NSwtNTU1NDAxNjcsLTkxNTA4MzAzNCwxNzQxNzk4NzNdfQ==
+eyJoaXN0b3J5IjpbMTUwMzQ4MDU4MywtMTU4MjI0MDg1MCwtMj
+U2OTI0NDQ2LDk1NDU0Nzc5LC0yNTY5MjQ0NDYsLTE1OTg5ODUw
+NTUsLTU1NTQwMTY3LC05MTUwODMwMzQsMTc0MTc5ODczXX0=
 -->
