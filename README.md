@@ -61,8 +61,9 @@ These are the data files:
 
 ##  Output Data
 
-1. [**Recsys_Tarea1_Sensitivity_Analysis.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Sensitivity_Analysis.ipynb)
+1. [**Recsys-Tarea1_output_data**](https://github.com/paulanavarretec/Recsys-Tarea1_output_data)
 : Code for Models senstivity to parameters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4Mzk1OCwtMTkyNDU5MDkzXX0=
+eyJoaXN0b3J5IjpbLTE2Nzg5ODg0NTgsLTE1NjE4Mzk1OCwtMT
+kyNDU5MDkzXX0=
 -->
