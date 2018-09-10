@@ -14,13 +14,11 @@ These are the data files:
 
  1. [ **training_data.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/training_data.csv)
-
-Contains all the instances to train the models.
+: Contains all the instances to train the models.
 
  2. [ **train_70.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_70.csv)
-
-Contains 70% of the instances to train the models.
+: Contains 70% of the instances to train the models.
 
  3. [ **train_30.csv** 
 ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/train_30.csv)
@@ -48,5 +46,6 @@ Code for data load and exploration.
 
 Code for data load and exploration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUxNDIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NzIxMTI1MDMsLTE0OTUxNDIzMDNdfQ
+==
 -->
