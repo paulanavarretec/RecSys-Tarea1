@@ -9,7 +9,7 @@ Instructions for replication of experiments for recommender algorithms for a bee
 Here you will find all the replication instructions for the experiments detailed in repo.
 
  ## Report
- 1. [ **PDF Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
+ 1. [ **PDF Report** ](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/RecSys___Homework_Assignment_1%20(2).pdf)
  : Contains Report with all the theory, explanations and produres relevant to this experimentation set.
  
  2. [ **LaTex Report** ](https://github.com/paulanavarretec/RecSys---Homework-Assignment-1)
@@ -64,5 +64,5 @@ These are the data files:
 1. [**Recsys-Tarea1_output_data**](https://github.com/paulanavarretec/Recsys-Tarea1_output_data)
 : Experiment's output data files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMjMxNDI0XX0=
+eyJoaXN0b3J5IjpbMTU3NjUzODgwOCwzNDAyMzE0MjRdfQ==
 -->
