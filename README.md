@@ -42,6 +42,8 @@ These are the data files:
 : Code for experimentation with Item Knn Model.
 2. [**Recsys_Tarea1_Experimentos_UserKnn.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_UserKnn.ipynb)
 : Code for experimentation with User Knn Model.
+3. [**Recsys_Tarea1_Experimentos_UserKnn.ipynb**](https://github.com/paulanavarretec/RecSys-Tarea1/blob/master/Recsys_Tarea1_Experimentos_UserKnn.ipynb)
+: Code for experimentation with User Knn Model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAyMTU0NDldfQ==
+eyJoaXN0b3J5IjpbOTM1Mjk1OTUsLTEzODAyMTU0NDldfQ==
 -->
